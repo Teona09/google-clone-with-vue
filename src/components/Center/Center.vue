@@ -15,14 +15,14 @@ import SearchButtons from "./center-items/SearchButtons.vue";
 import LanguageList from "./center-items/LanguageList.vue";
 
 export default {
-    name: "App",
-    components: {
-        Logo,
-        SearchForm,
-        SearchButtons,
-        LanguageList,
-    }
-}
+  name: "App",
+  components: {
+    Logo,
+    SearchForm,
+    SearchButtons,
+    LanguageList,
+  },
+};
 </script>
 
 <style>

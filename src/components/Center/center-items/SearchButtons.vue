@@ -1,8 +1,8 @@
 <template>
   <div class="search-buttons">
-    <button>{{searchButtonText}}</button>
+    <button>{{ searchButtonText }}</button>
     <button>
-      <a v-bind:href="feelingLuckyButtonLink"> {{feelingLuckyButtonText}}</a>
+      <a v-bind:href="feelingLuckyButtonLink"> {{ feelingLuckyButtonText }}</a>
     </button>
   </div>
 </template>

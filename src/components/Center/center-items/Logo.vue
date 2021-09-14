@@ -1,11 +1,7 @@
 <template>
-    <div class="Google-Logo">
-        <img
-          v-bind:src="logo"
-          alt="Google Logo"
-          title="Google Search"
-        />
-      </div>
+  <div class="Google-Logo">
+    <img v-bind:src="logo" alt="Google Logo" title="Google Search" />
+  </div>
 </template>
 
 <script>
