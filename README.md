@@ -1,4 +1,6 @@
-# google-clone-with-vue
+
+##### from CLaudia :)
+# Google clone with Vue.js
 
 ## Project setup
 ```
