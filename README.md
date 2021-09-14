@@ -1,5 +1,5 @@
 
-##### from CLaudia :)
+##### from Claudia :)
 # Google clone with Vue.js
 
 ## Project setup

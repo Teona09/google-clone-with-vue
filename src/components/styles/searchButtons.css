@@ -1,0 +1,28 @@
+.search-buttons {
+  margin-top: 3px;
+}
+
+.search-buttons button {
+  background-color: #f8f9ff;
+  border: 1px solid #f8f9ff;
+  border-radius: 4px;
+  color: #3c4043;
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  margin: 11px 4px;
+  padding: 0 16px;
+  line-height: 27px;
+  height: 36px;
+  min-width: 54px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.search-buttons button a {
+  color: #3c4043;
+}
+
+.search-buttons button:hover {
+  border: 1px solid #b3b3b3;
+  box-shadow: 0 2px 4px #cccccc;
+}

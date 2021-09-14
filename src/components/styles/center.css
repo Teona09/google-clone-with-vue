@@ -1,0 +1,26 @@
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 65vh;
+  padding: 10px 10px;
+}
+
+@media (min-width: 500px) {
+  .center .form-container form input {
+    width: 400px;
+  }
+}
+
+@media (min-width: 640px) {
+  .center .form-container form input {
+    width: 500px;
+  }
+}
+
+@media (min-width: 768px) {
+  .center .form-container form input {
+    width: 650px;
+  }
+}

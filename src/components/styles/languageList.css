@@ -1,0 +1,15 @@
+.language-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 5px 10px;
+  font-size: 13px;
+  font-family: arial, sans-serif;
+  align-items: flex-start;
+}
+
+.language-list .language {
+  display: flex;
+  align-content: space-around;
+  margin: 0px 5px;
+}
